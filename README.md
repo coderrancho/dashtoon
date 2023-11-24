@@ -1,0 +1,4 @@
+- Download Dashtoon.ipynb
+- Use google collaboratory to run the file. It will automatically download all the requirements and dependencies.
+- File contain a code section to use image of your choice.
+- Replace image file name with image on your local device.
